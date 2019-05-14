@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Holy Grenade</name>
+  <author>Trunken</author>
+  <url></url>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
+This mod expands your sortiment on grenades for each tech stadium:
+
+- Holy Hand Grenade (Medieval Runthroughs, Exotic Traders)
+- Inferno Grenade (Smithing)
+- Thermal Detonator (AdvancedFabrication)
+
+Instructions: &lt;i&gt;Aim at foes. Count to 3 before throwing. Handle with care.&lt;/i&gt;
+
+  &lt;b&gt;&lt;color=#ff6c00&gt;Boom!&lt;/color&gt;&lt;/b&gt;
+
+  </description>
+</ModMetaData>
